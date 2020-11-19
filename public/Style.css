@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h3,p,h6{
+    text-align: center;
+    margin-top: 5%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 2% 20% 5% 20%;
+}
+.pub{
+    margin-left: 39%;
+    height: 200px;
+    margin-bottom: 5%;
+    
+}
+
+div{
+    display: flex;
+    justify-content: space-around;
+}
+.services {
+    margin : 2% 0% 0% 
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+     
+}
+img{
+    width: 20%;
+}
